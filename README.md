@@ -81,4 +81,4 @@ If you have any questions or need clarification about the challenge, feel free t
 
 Good luck and we are excited to see what you come up with!
 
-**CryptoFi**
+**Investifi**
