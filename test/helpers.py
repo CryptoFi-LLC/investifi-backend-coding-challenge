@@ -33,7 +33,7 @@ def ensure_using_aws_test_keys(func):
     return wrapper_func
 
 
-class CryptofiTestCase(unittest.TestCase):
+class InvestifiTestCase(unittest.TestCase):
     @classmethod
     @ensure_using_aws_test_keys
     def setUpClass(cls):

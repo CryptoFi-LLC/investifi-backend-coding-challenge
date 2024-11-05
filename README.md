@@ -1,6 +1,6 @@
 # Coding Challenge Readme
 
-Welcome to the CryptoFi Backend Engineering coding challenge! This challenge is designed to assess your coding skills, problem-solving abilities, and "grit". Before you begin, please take a moment to read through this readme to understand the challenge requirements, instructions, and guidelines.
+Welcome to the Investifi Backend Engineering coding challenge! This challenge is designed to assess your coding skills, problem-solving abilities, and "grit". Before you begin, please take a moment to read through this readme to understand the challenge requirements, instructions, and guidelines.
 
 ## Challenge Description
 
@@ -51,7 +51,7 @@ To submit your solution, follow these steps:
 1. **Push to GitHub**: Push your committed changes to your forked repository on GitHub.
 1. **Invite Us**: Invite @alexanderlukens, @cooncesean, and @RamseyV to review the repo
 1. **Loom Video**: Create a short [Loom video](https://www.loom.com/) (5 minutes or less) describing your approach and demoing the coding challenge. 
-1. **Email**: Once complete, please reach out to [Becca](mailto:becca@cryptofi.tech) our HR representive with the Loom video attached and we will be in touch!
+1. **Email**: Once complete, please reach out to [Ash](mailto:ash@1872consulting.com) our HR representive with the Loom video attached and we will be in touch!
 
 In your pull request, include the following:
 
@@ -77,7 +77,7 @@ Your solution will be evaluated based on the following criteria:
 
 ## Contact
 
-If you have any questions or need clarification about the challenge, feel free to reach out to us at [alex@cryptofi.tech](mailto:alex@cryptofi.tech).
+If you have any questions or need clarification about the challenge, feel free to reach out to us at [alex@investifi.co](mailto:alex@investifi.co).
 
 Good luck and we are excited to see what you come up with!
 

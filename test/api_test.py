@@ -1,13 +1,13 @@
 from fastapi.testclient import TestClient
 
-from test.helpers import CryptofiTestCase
+from test.helpers import InvestifiTestCase
 from src.api import app
 
 
-class TestHelloWorldRoute(CryptofiTestCase):
+class TestHelloWorldRoute(InvestifiTestCase):
     """
     Example of how to write a integration test with FastApi in a dockerized container.
-    NOTE: Make sure to have your classes inherit from CryptofiTestCase in order to take
+    NOTE: Make sure to have your classes inherit from InvestifiTestCase in order to take
     advantage of a predefined test suite framework
     """
 

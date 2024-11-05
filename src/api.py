@@ -2,7 +2,7 @@ from fastapi import FastAPI
 
 
 app = FastAPI(
-    title="CryptoFi Backend Coding Challenge",
+    title="Investifi Backend Coding Challenge",
 )
 
 

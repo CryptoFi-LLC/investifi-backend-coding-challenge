@@ -1,8 +1,8 @@
 version: '3.8'
-name: cryptofi-backend-coding-challenge
+name: investifi-backend-coding-challenge
 services:
-  cryptofi-backend-coding-challenge:
-    container_name: cryptofi-backend-coding-challenge
+  investifi-backend-coding-challenge:
+    container_name: investifi-backend-coding-challenge
     build:
       context: ../..
       dockerfile: docker/config/Dockerfile
