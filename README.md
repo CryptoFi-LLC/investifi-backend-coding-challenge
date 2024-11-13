@@ -51,7 +51,7 @@ To submit your solution, follow these steps:
 1. **Push to GitHub**: Push your committed changes to your forked repository on GitHub.
 1. **Invite Us**: Invite @alexanderlukens, @Benjamin-Kozuch, and @zachborboacryptofi to review the repo
 1. **Loom Video**: Create a short [Loom video](https://www.loom.com/) (5 minutes or less) describing your approach and demoing the coding challenge. 
-1. **Email**: Once complete, please reach out to [Ash](mailto:ash@1872consulting.com) our HR representive with the Loom video attached and we will be in touch!
+1. **Email**: Once complete, please reach out to [Alex](mailto:alex@investifi.co) with the Loom video attached and we will be in touch!
 
 In your pull request, include the following:
 
