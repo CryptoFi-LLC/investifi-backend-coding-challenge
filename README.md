@@ -77,7 +77,7 @@ Your solution will be evaluated based on the following criteria:
 
 ## Contact
 
-If you have any questions or need clarification about the challenge, feel free to reach out to us at [alex@investifi.co](mailto:alex@investifi.co).
+If you have any questions or need clarification about the challenge, feel free to reach out to us at [developers@investifi.co](mailto:developers@investifi.co).
 
 Good luck and we are excited to see what you come up with!
 
