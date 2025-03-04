@@ -1,12 +1,3 @@
-# `version` top level element obsolete in 1.27.4 (https://docs.docker.com/reference/compose-file/version-and-name/)
-# version: "3.3"
-
-# `name` top level element should work according to above link, but it is throwing a conflicting error saying that there needs to be a version,
-# but if the version is present, it ignores it. Commenting out the name and allows the `make run` command to work. This might be an issue of
-# using the Ubuntu OS instead of a iOS or Windows OS. Keeping the local like this to proceed, would reach out and discuss with whoever set up
-# at a latter time to see if there is a better resolution.
-# name: investifi-backend-coding-challenge
-
 services:
   investifi-backend-coding-challenge:
     container_name: investifi-backend-coding-challenge

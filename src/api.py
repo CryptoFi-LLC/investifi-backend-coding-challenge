@@ -16,7 +16,7 @@ app = FastAPI(
 
 @app.get("/")
 def hello_world():
-    """when calling the Query operation: The security token included in the request is invalid.
+    """
     NOTE: This is route is used as an example for the test suite
     No action needed here
     """
@@ -53,8 +53,8 @@ def get_recurring_orders(user_id: str):
 def post_recurring_orders(recurring_order: RecurringOrder):
     """
     TODO
-    Requirements:daily
-    The POST route should create a recurring order for a userdaily
+    Requirements:
+    The POST route should create a recurring order for a user
     A recurring order can be for only BTC or ETH
     A recurring order must have a concept of Frequency. Only Daily or Bi-Monthly frequencies is allowed
     A User can only have 1 recurring order for a given Crypto/Frequency i.e. BTC/Daily
