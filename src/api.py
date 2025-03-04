@@ -35,7 +35,9 @@ def get_recurring_orders(user_id: str):
     dynamodb_client = boto3.client('dynamodb')
 
     key_condition_expression = 'hash_key=:hash_key'
-    expression_values = {':hash_key': {'S': f'User#{user_id}'}}
+    filter_expression = 'not contains(:range_key, range_key)'
+    expression_values = {':hash_key': {'S': f'User#{user_id}'},
+                         ':range_key': {'S': 'details'}}
 
     dynamodb_response = dynamodb_client.query(
         TableName=recurring_order_table,
