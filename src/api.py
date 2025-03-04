@@ -78,7 +78,7 @@ def post_recurring_orders(recurring_order: RecurringOrder):
         ExpressionAttributeValues=expression_values,
     )
     
-    if recurring_orders := dynamodb_response.get('Item'):
+    if recurring_order := dynamodb_response.get('Item'):
       raise HTTPException(status_code=422, detail='record already exists for user and currency')
     else:
         try:
