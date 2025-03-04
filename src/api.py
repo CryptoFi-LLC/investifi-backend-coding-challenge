@@ -42,6 +42,7 @@ def get_recurring_orders(user_id: str):
     dynamodb_response = dynamodb_client.query(
         TableName=recurring_order_table,
         KeyConditionExpression=key_condition_expression,
+        FilterExpression=filter_expression,
         ExpressionAttributeValues=expression_values,
     )
     
